@@ -39,7 +39,7 @@
 <script>
 
     export default {
-        name: 'RcTimer',
+        name: 'RcTimerOrg',
 
         props: {
             expire: {
