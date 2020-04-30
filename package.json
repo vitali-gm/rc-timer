@@ -1,5 +1,5 @@
 {
-  "name": "rc-timer",
+  "name": "rc-timer-org",
   "version": "1.0.2",
   "description": "",
   "main": "index.js",
@@ -15,5 +15,6 @@
   "bugs": {
     "url": "https://github.com/vitali-gm/rc-timer/issues"
   },
-  "homepage": "https://github.com/vitali-gm/rc-timer#readme"
+  "homepage": "https://github.com/vitali-gm/rc-timer#readme",
+  "dependencies": {}
 }
